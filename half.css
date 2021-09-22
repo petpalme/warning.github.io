@@ -1,0 +1,13 @@
+body
+{
+    background-color: white;
+    background-image: linear-gradient( 120deg, white 0%, #e6d924e5 100%);
+
+}
+.funwithbuttons {
+    width: 100px;
+    height: 40px;
+    background-color: chartreuse;
+    border-radius: 20px;
+    border-color: darkblue;
+}
